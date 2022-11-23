@@ -1,1 +1,1 @@
-# blur_detect
+Have a good day!)
