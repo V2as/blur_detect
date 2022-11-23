@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 
 
-image = cv.imread('Rebra.png', cv.IMREAD_COLOR)
+image = cv.imread('PUTT', cv.IMREAD_COLOR) # put your picture | image | photo
 grayscale = cv.cvtColor(image, cv.COLOR_BGR2GRAY)
 blr = 1
 
@@ -29,7 +29,7 @@ def normalize(img, size=60):
         fix = cv.filter2D(img, -1, kernel=kernel)
         image = fix
         grayscale = fix
-        print('FIXED')
+
     else:
         print('Normal')
 
