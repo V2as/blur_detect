@@ -5,5 +5,7 @@ n - for DETECT
 q - for QUIT 
 b - for BLUR 
 
-Author Vasily K.
+To detect I used a Furier Transform 
 
+Author Vasily K.
+(sorry for bad english) 
