@@ -4,4 +4,4 @@ press:
 n - for DETECT
 q - for QUIT 
 b - for BLUR 
-(.)(.)
+
