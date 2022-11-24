@@ -6,3 +6,4 @@ q - for QUIT
 b - for BLUR 
 
 Author Vasily K.
+
